@@ -2,16 +2,16 @@
 This documentation explains the API testing suite for the thetestingworldapi.com which contains a Postman collection and environment designed to facilitate API testing for various functionalities related to management details of student. The API allows operations such as fetching student details, creating new students, retrieving specific students, adding technical skills, and managing student addresses. 
 
 # Summery    
-I have Completed an API test of Get All Students with total number of students , Create a Student, Get Specific Created Student, Create Technical Skills, Create Student's Address and finally Get Student Details
+I have completed an API test of Get all students, Create a Student, Get Specific created student, Create technical skills, Create student's address and finally Get student details
 https://thetestingworldapi.com/   
 <p align="center">
   <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/Summary_in_Command.png?raw=true" />
 </p>
  
 
-Here in this API student details viewed and different tests were performed for different HTTP methods like POST, GET, DELETE, and PUT.
+Here in this API testing student details viewed and different tests were performed for different HTTP methods like POST, GET, DELETE, PUT.
 
-**Summary:** Test Scripts 6 and Total 22 assertions were done. All of them passed with 0 skipped tests. The number of iteration was 1.
+**Summary:** Total 6 Test Scripts and 22 assertions were done. All of them passed with 0 failed tests and 0 skipped tests. The number of iteration was 1.
 
 
 # Requirements  
@@ -601,14 +601,24 @@ npm install -g newman-reporter-htmlextra
 **or**    
 - newman run CollectionName.json -e EnvironmentName.json -r cli,htmlextra
 
-- #### Newman File htmlextra
+- #### Newman Report File htmlextra
  <p align="center">
-  <img src="https://github.com/SHANJIDA-HRIDE/API-Testing-with-Postman/assets/62147630/03353ac2-38ce-4e4e-86f0-cb47439efc0a"/>
- <img src="https://github.com/SHANJIDA-HRIDE/API-Testing-with-Postman/assets/62147630/914a4944-b488-4ff5-bdad-56fe5c22b0d2"/>
- <img src="https://github.com/SHANJIDA-HRIDE/API-Testing-with-Postman/assets/62147630/d684ba12-f2d1-4888-a6b7-9946c1a0757e"/>
-  <img src="https://github.com/SHANJIDA-HRIDE/API-Testing-with-Postman/assets/62147630/db9a87fe-fc49-4a5a-870e-554b11139f85"/>
-  <img src="https://github.com/SHANJIDA-HRIDE/API-Testing-with-Postman/assets/62147630/9e7d6f07-4f43-416e-9b4e-3e62a36fb010"/>
-    <img src="https://github.com/SHANJIDA-HRIDE/API-Testing-with-Postman/assets/62147630/ced1cb77-1461-40cb-9fb4-619c332712ce"/>
-    <img src="https://github.com/SHANJIDA-HRIDE/API-Testing-with-Postman/assets/62147630/0d7d4b6d-70f3-4ba4-80f6-02c7a1c05758"/></p>
+  <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/1.png?raw=true"/>
+ <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/2.png?raw=true"/>
+ <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/3.png?raw=true"/>
+  <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/4.png?raw=true"/>
+  <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/5.png?raw=true"/>
+    <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/6.png?raw=true"/>
+    <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/7.png?raw=true"/>
+    <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/8.png?raw=true"/>
+<img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/9.png?raw=true"/>
+<img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/10.png?raw=true"/>
+<img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/11.png?raw=true"/>
+<img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/12.png?raw=true"/>
+  <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/13.png?raw=true"/>
+<img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/14.png?raw=true"/>
+<img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/15.png?raw=true"/>
+<img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/16.png?raw=true"/>
+<img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/17.png?raw=true"/></p>
 
 
