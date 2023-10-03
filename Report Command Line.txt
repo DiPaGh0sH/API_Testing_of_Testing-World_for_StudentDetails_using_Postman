@@ -1,0 +1,1 @@
+newman run TestingWorld_DynamicTest.postman_collection.json -e TestingWorld_DynamicTest.postman_environment.json -r cli,htmlextra
