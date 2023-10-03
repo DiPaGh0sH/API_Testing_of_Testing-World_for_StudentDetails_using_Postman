@@ -1,7 +1,7 @@
 # Introduction
 This documentation explains the API testing suite for the thetestingworldapi.com which contains a Postman collection and environment designed to facilitate API testing for various functionalities related to management details of student. The API allows operations such as fetching student details, creating new students, retrieving specific students, adding technical skills, and managing student addresses. 
 
-# Summery    
+# Summary    
 I have completed an API test of Get all students, Create a Student, Get Specific created student, Create technical skills, Create student's address and finally Get student details
 https://thetestingworldapi.com/   
 <p align="center">
