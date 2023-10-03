@@ -596,18 +596,16 @@ npm install -g newman-reporter-html
 ```bash
 npm install -g newman-reporter-htmlextra    
 ```
-#### Run Command      
+#### Report Run Command      
 - newman run CollectionName.json -e EnvironmentName.json -r cli,html    
 **or**    
 - newman run CollectionName.json -e EnvironmentName.json -r cli,htmlextra
 
-- #### Newman Report File htmlextra
+#### Newman Report File htmlextra
  <p align="center">
   <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/1.png?raw=true"/>
  <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/2.png?raw=true"/>
  <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/3.png?raw=true"/>
-  <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/4.png?raw=true"/>
-  <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/5.png?raw=true"/>
     <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/6.png?raw=true"/>
     <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/7.png?raw=true"/>
     <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/8.png?raw=true"/>
@@ -619,6 +617,8 @@ npm install -g newman-reporter-htmlextra
 <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/14.png?raw=true"/>
 <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/15.png?raw=true"/>
 <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/16.png?raw=true"/>
-<img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/17.png?raw=true"/></p>
+<img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/17.png?raw=true"/>
+<img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/4.png?raw=true"/>
+  <img src="https://github.com/DiPaGh0sH/API_Testing_of_Testing-World_for_StudentDetails_using_Postman/blob/master/newman/All%20SS%20of%20Report/5.png?raw=true"/></p>
 
 
